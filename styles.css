@@ -1,0 +1,122 @@
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.game {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="number"], button {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: calc(50% - 10px);
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#intentos-container, #resultado-container {
+    margin-top: 20px;
+}
+
+#resultado {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333;
+}*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('nums.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 20px;
+    color: #ffffff; /* Cambiamos el color del texto a blanco para mayor contraste */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo semitransparente para mejor legibilidad */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #fff;
+}
+
+.game {
+    background-color: rgb(237, 174, 27); /* Fondo negro */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="number"], button {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: calc(50% - 10px);
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#intentos-container, #resultado-container {
+    margin-top: 20px;
+}
+
+#resultado {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #fff; /* Cambiamos el color del texto a blanco para mayor contraste */
+}
+
